@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox", "Mindbox\Mindbox.csproj", "{CBCDF733-59F8-4B8A-B215-BB4A49D2A453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Tests", "Mindbox.Tests\Mindbox.Tests.csproj", "{F705BA2F-DFE3-44EF-98C2-B9E5D398F330}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCDF733-59F8-4B8A-B215-BB4A49D2A453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCDF733-59F8-4B8A-B215-BB4A49D2A453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCDF733-59F8-4B8A-B215-BB4A49D2A453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCDF733-59F8-4B8A-B215-BB4A49D2A453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F705BA2F-DFE3-44EF-98C2-B9E5D398F330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F705BA2F-DFE3-44EF-98C2-B9E5D398F330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F705BA2F-DFE3-44EF-98C2-B9E5D398F330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F705BA2F-DFE3-44EF-98C2-B9E5D398F330}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
